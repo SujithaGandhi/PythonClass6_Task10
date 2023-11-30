@@ -1,0 +1,21 @@
+Task1: Create a requirement.txt using pip command
+         Step1: Open visual studio
+         Step2: Open new terminal from top menu
+         Step3: Open current directory
+         Step4: Install pip requirement by the command " pip insatll pipreqs"
+         Step5: After successfull pipreqs installed then give a command " pipreqs"
+         Step6: Requirements.txt created
+
+Screenshot for Requirement.txt created:
+GuviTask\task10_img\4.png
+
+
+
+Task2: Install flask module using pip command
+       Step1: Open command
+       Step2: Enter command <pip install flask>
+
+Screenshot for installing flask module
+GuviTask\task10_img\1.png
+GuviTask\task10_img\2.png
+GuviTask\task10_img\3.png

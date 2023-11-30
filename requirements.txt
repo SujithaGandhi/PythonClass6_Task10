@@ -1,0 +1,9 @@
+Task1: Create a requirement.txt using python pip command
+
+Step1: Open visual studio
+Step2: Open new terminal from top menu
+Step3: Open current directory
+Step4: Install pip requirement by the command " pip insatll pipreqs"
+Step5: After successfull pipreqs installed then give a command " pipreqs"
+Step6: Requirements.txt created
+
